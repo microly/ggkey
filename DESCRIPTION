@@ -4,7 +4,7 @@ Title: What the Package Does (Title Case)
 Version: 0.1.0
 Authors@R: person("Yu", "Liu", email = "microly@foxmail.com",
     role = c("aut", "cre"))
-Maintainer: YU Liu <microly@foxmail.com>
+Maintainer: Yu Liu <microly@foxmail.com>
 Description: More about what it does (maybe more than one line)
     Use four spaces when indenting paragraphs within the Description.
 License: What license is it under?
