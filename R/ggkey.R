@@ -3,4 +3,6 @@
 #'
 #' @docType package
 #' @name ggkey
+#'
+#' @import grid
 NULL
