@@ -52,7 +52,7 @@ draw_key_polygon_size <- function(width = 0.8, height = 0.8) {
 
         lwd <- min(data$size, min(size) / 4)
 
-        grid::rectGrob(
+        rectGrob(
             width = unit(width, "npc"),
             height = unit(height, "npc"),
             gp = gpar(
